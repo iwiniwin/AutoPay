@@ -1,4 +1,4 @@
-# scan_code_payment
+# AutoPay
 批量扫码支付工具
 
 ### 依赖库
